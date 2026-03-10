@@ -18,3 +18,13 @@ Motivation + bonus step-by-step github authorization setting here: [timsh.org](h
 - type `claude` to activate Claude Code
 
 You're all set! 
+
+
+# Entire
+Install it
+
+curl -fsSL https://entire.io/install.sh | bash
+
+then run
+
+entire enable
